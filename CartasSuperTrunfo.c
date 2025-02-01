@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 
-int main() {
+int main(){
  
-   printf("Novo desafio!\n");
+   printf("Novo programa!\n");
 
     return 0;
 }
