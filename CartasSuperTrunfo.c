@@ -3,7 +3,6 @@
 
 int main(){
  
-   printf("Novo modo!\n");
-   printf("Novo commit!\n");
+   printf("Nova projeto!\n");
     return 0;
 }
